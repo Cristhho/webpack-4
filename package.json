@@ -4,7 +4,8 @@
   "description": "Curso de webpack en Platzi",
   "main": "index.js",
   "scripts": {
-    "build:dev": "webpack"
+    "build:dev": "webpack",
+    "build:external": "webpack --config ./external/webpack.config.js"
   },
   "repository": {
     "type": "git",
