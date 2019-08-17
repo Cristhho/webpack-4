@@ -1,0 +1,27 @@
+{
+  "name": "platzi-webpack",
+  "version": "1.0.0",
+  "description": "Curso de webpack en Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Cristhho/webpack-4.git"
+  },
+  "keywords": [
+    "webpack",
+    "platzi"
+  ],
+  "author": "@cristhhq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cristhho/webpack-4/issues"
+  },
+  "homepage": "https://github.com/Cristhho/webpack-4#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.39.2"
+  }
+}
