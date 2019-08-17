@@ -4,7 +4,7 @@
   "description": "Curso de webpack en Platzi",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build:dev": "webpack"
   },
   "repository": {
     "type": "git",
